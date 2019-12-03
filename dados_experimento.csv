@@ -1,4 +1,4 @@
-fatia 1,fatia 2,método,correlação
+fatia_1,fatia_2,método,correlação
 111,112,nenhum,0.970675
 111,112 com ruído,nenhum,0.867816
 111,112 medFilter2,filtro da média da vizinhança,0.933185
